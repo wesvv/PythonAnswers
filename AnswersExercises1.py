@@ -21,7 +21,7 @@ if number % 2 == 0:
 else:
     print("The number is odd")
 
-#OR:
+#OR: ____________________________________________________________________________
 #If the number is odd, the remainder is 1 
 if number % 2 == 1:
     print("The number is odd")
@@ -58,7 +58,7 @@ reverse = num_string[::-1]
 
 print(f"The reverse is {reverse}")
 
-#OR:
+#OR: ____________________________________________________________________________
 #Use the modulus operator
 number = 145
 reverse = 0
